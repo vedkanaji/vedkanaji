@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedant kanaji
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Backend development
 - 📫 How to reach me kanajivedant@gmail.com
 
 <!---
