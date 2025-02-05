@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vedant kanaji
-- 🌱 I’m currently Working as Backend development
+- 🌱 I’m currently Working as Djnago Backend developer
 - 📫 How to reach me kanajivedant@gmail.com
 
 <!---
