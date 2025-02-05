@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vedant kanaji
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Backend development
+- 🌱 I’m currently Working as Backend development
 - 📫 How to reach me kanajivedant@gmail.com
 
 <!---
